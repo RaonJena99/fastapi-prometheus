@@ -1,0 +1,4 @@
+uvicorn
+fastapi
+prometheus_client
+python-multipart
