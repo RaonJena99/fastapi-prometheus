@@ -15,8 +15,10 @@
 
 ```bash
 docker compose up --build
+```
 
 ### 2. 테스트 스크립트 실행
 
 ```bash
 python test_predict.py
+```
